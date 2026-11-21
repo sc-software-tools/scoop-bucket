@@ -1,0 +1,29 @@
+{
+    "version": "1.2.2",
+    "description": "Media Trim: Trim video, cut without quality loss and extract audio to MP3 or WAV. Free; optional one-time PRO upgrade.",
+    "homepage": "https://sc-software-tools.github.io/sc-utility-suite-dist/video-trimmer.html",
+    "license": {
+        "identifier": "Freeware",
+        "url": "https://sc-software-tools.github.io/sc-utility-suite-dist/"
+    },
+    "url": "https://github.com/sc-software-tools/sc-utility-suite-dist/releases/download/suite-v1.2.2/MediaTrim_v1.2.2_Portable.zip",
+    "hash": "4772a725302a12b056af251f383f82c818d5dff46ab235f034e277630f4fda33",
+    "extract_dir": "MediaTrim",
+    "shortcuts": [
+        [
+            "MediaTrim.exe",
+            "Media Trim"
+        ]
+    ],
+    "checkver": {
+        "github": "https://github.com/sc-software-tools/sc-utility-suite-dist",
+        "regex": "suite-v([\\d.]+)"
+    },
+    "autoupdate": {
+        "url": "https://github.com/sc-software-tools/sc-utility-suite-dist/releases/download/suite-v$version/MediaTrim_v$version_Portable.zip",
+        "hash": {
+            "url": "https://github.com/sc-software-tools/sc-utility-suite-dist/releases/download/suite-v$version/checksums_windows_v$version.sha256",
+            "regex": "([a-fA-F0-9]{64})\\s+\\*?$basename"
+        }
+    }
+}

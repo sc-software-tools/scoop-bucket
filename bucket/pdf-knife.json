@@ -1,0 +1,29 @@
+{
+    "version": "1.2.2",
+    "description": "PDF Knife: Merge, split, reorder and extract PDF pages offline. Free; optional one-time PRO upgrade.",
+    "homepage": "https://sc-software-tools.github.io/sc-utility-suite-dist/pdf-tools.html",
+    "license": {
+        "identifier": "Freeware",
+        "url": "https://sc-software-tools.github.io/sc-utility-suite-dist/"
+    },
+    "url": "https://github.com/sc-software-tools/sc-utility-suite-dist/releases/download/suite-v1.2.2/PdfKnife_v1.2.2_Portable.zip",
+    "hash": "0bae363291da5e9bce7200f0b6895776a16e45b9d1221c701de17b91ed771ab3",
+    "extract_dir": "PdfKnife",
+    "shortcuts": [
+        [
+            "PdfKnife.exe",
+            "PDF Knife"
+        ]
+    ],
+    "checkver": {
+        "github": "https://github.com/sc-software-tools/sc-utility-suite-dist",
+        "regex": "suite-v([\\d.]+)"
+    },
+    "autoupdate": {
+        "url": "https://github.com/sc-software-tools/sc-utility-suite-dist/releases/download/suite-v$version/PdfKnife_v$version_Portable.zip",
+        "hash": {
+            "url": "https://github.com/sc-software-tools/sc-utility-suite-dist/releases/download/suite-v$version/checksums_windows_v$version.sha256",
+            "regex": "([a-fA-F0-9]{64})\\s+\\*?$basename"
+        }
+    }
+}

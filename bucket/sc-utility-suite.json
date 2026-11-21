@@ -1,0 +1,29 @@
+{
+    "version": "1.2.2",
+    "description": "SC Utility Suite: All seven SC tools in one app: HEIC, PDF, archives, video, duplicates, screen recording, USB. Free; optional one-time PRO upgrade.",
+    "homepage": "https://sc-software-tools.github.io/sc-utility-suite-dist/",
+    "license": {
+        "identifier": "Freeware",
+        "url": "https://sc-software-tools.github.io/sc-utility-suite-dist/"
+    },
+    "url": "https://github.com/sc-software-tools/sc-utility-suite-dist/releases/download/suite-v1.2.2/SC_Utility_Suite_v1.2.2_Portable.zip",
+    "hash": "55f64ff01fe10d807771a7b65d70c5e4b2655b8aacafc7c384d44be59d57fff4",
+    "extract_dir": "SC Utility Suite",
+    "shortcuts": [
+        [
+            "SuiteHub.exe",
+            "SC Utility Suite"
+        ]
+    ],
+    "checkver": {
+        "github": "https://github.com/sc-software-tools/sc-utility-suite-dist",
+        "regex": "suite-v([\\d.]+)"
+    },
+    "autoupdate": {
+        "url": "https://github.com/sc-software-tools/sc-utility-suite-dist/releases/download/suite-v$version/SC_Utility_Suite_v$version_Portable.zip",
+        "hash": {
+            "url": "https://github.com/sc-software-tools/sc-utility-suite-dist/releases/download/suite-v$version/checksums_windows_v$version.sha256",
+            "regex": "([a-fA-F0-9]{64})\\s+\\*?$basename"
+        }
+    }
+}
