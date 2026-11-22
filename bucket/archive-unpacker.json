@@ -1,13 +1,13 @@
 {
-    "version": "1.2.4",
+    "version": "1.2.5",
     "description": "Archive Unpacker: Open and extract RAR, 7z, ZIP, TAR, GZ and BZ2 archives; create ZIP files. Free; optional one-time PRO upgrade.",
     "homepage": "https://sc-software-tools.github.io/sc-utility-suite-dist/archive-extractor.html",
     "license": {
         "identifier": "Freeware",
         "url": "https://sc-software-tools.github.io/sc-utility-suite-dist/"
     },
-    "url": "https://github.com/sc-software-tools/sc-utility-suite-dist/releases/download/suite-v1.2.4/ArchiveUnpacker_v1.2.4_Portable.zip",
-    "hash": "b945aae3eec584a545e415b31011e4fc452ef522515dcb06e84f8b3772a37d8a",
+    "url": "https://github.com/sc-software-tools/sc-utility-suite-dist/releases/download/suite-v1.2.5/ArchiveUnpacker_v1.2.5_Portable.zip",
+    "hash": "ae4acd4b77bf10e78e234a195dc431ee0c15d7ee4b051478b2f0de88dd447535",
     "extract_dir": "ArchiveUnpacker",
     "shortcuts": [
         [
