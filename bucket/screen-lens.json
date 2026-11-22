@@ -1,13 +1,13 @@
 {
-    "version": "1.2.6",
+    "version": "1.2.7",
     "description": "Screen Lens: Record your screen or an area as MP4 or animated GIF, no watermark. Free; optional one-time PRO upgrade.",
     "homepage": "https://sc-software-tools.github.io/sc-utility-suite-dist/screen-recorder.html",
     "license": {
         "identifier": "Freeware",
         "url": "https://sc-software-tools.github.io/sc-utility-suite-dist/"
     },
-    "url": "https://github.com/sc-software-tools/sc-utility-suite-dist/releases/download/suite-v1.2.6/ScreenLens_v1.2.6_Portable.zip",
-    "hash": "fef2bb12564bb64690099664ddc54d928948b2937c92ec87b5345c127dfdc2eb",
+    "url": "https://github.com/sc-software-tools/sc-utility-suite-dist/releases/download/suite-v1.2.7/ScreenLens_v1.2.7_Portable.zip",
+    "hash": "3d34e06bae2ca11f3597f2d084bb36e51e92f4b3f8e487a1286cb524c0ec1f6f",
     "extract_dir": "ScreenLens",
     "shortcuts": [
         [

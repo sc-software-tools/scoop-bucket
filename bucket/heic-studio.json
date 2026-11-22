@@ -1,13 +1,13 @@
 {
-    "version": "1.2.6",
+    "version": "1.2.7",
     "description": "HEIC Studio: Convert HEIC, HEIF, AVIF and WebP photos to JPG, PNG, WebP or PDF offline. Free; optional one-time PRO upgrade.",
     "homepage": "https://sc-software-tools.github.io/sc-utility-suite-dist/heic-to-jpg.html",
     "license": {
         "identifier": "Freeware",
         "url": "https://sc-software-tools.github.io/sc-utility-suite-dist/"
     },
-    "url": "https://github.com/sc-software-tools/sc-utility-suite-dist/releases/download/suite-v1.2.6/HeicStudio_v1.2.6_Portable.zip",
-    "hash": "db021f6ec786484067c3dbcca9fafaa6c30939471d897ec5ed9f0f5cab2481f5",
+    "url": "https://github.com/sc-software-tools/sc-utility-suite-dist/releases/download/suite-v1.2.7/HeicStudio_v1.2.7_Portable.zip",
+    "hash": "f1e74938dc1b91525d80afdfe7be85ca84e132a18356abf801c3240fc15fe522",
     "extract_dir": "HeicStudio",
     "shortcuts": [
         [
