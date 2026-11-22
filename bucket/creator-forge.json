@@ -1,13 +1,13 @@
 {
-    "version": "1.2.2",
+    "version": "1.2.3",
     "description": "SC Creator Forge: Turn videos, photos and audio into thumbnails, social artwork, MP4s and clean audio in one batch, on your PC. One-time purchase.",
     "homepage": "https://sc-software-tools.github.io/sc-utility-suite-dist/creator-forge.html",
     "license": {
         "identifier": "Proprietary",
         "url": "https://github.com/sc-software-tools/sc-utility-suite-dist/blob/main/LICENSE"
     },
-    "url": "https://github.com/sc-software-tools/sc-utility-suite-dist/releases/download/expansion-v1.2.2/CreatorForge_Setup_v1.2.2.exe",
-    "hash": "b9fa75622c5c7d40347120a611406cb02cfc00eae294209c50c0bb34d0138783",
+    "url": "https://github.com/sc-software-tools/sc-utility-suite-dist/releases/download/expansion-v1.2.3/CreatorForge_Setup_v1.2.3.exe",
+    "hash": "706875ba901ecefdc9c5b9e6ed41d3a4001e7378b47b61a6bc000a8c48ba1100",
     "innosetup": true,
     "shortcuts": [
         [
