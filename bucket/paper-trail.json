@@ -1,13 +1,13 @@
 {
-    "version": "1.2.1",
+    "version": "1.2.2",
     "description": "SC PaperTrail: Turn scanned receipts, invoices and letters into searchable PDFs, pick out the important details and find any document fast. One-time purchase.",
     "homepage": "https://sc-software-tools.github.io/sc-utility-suite-dist/receipt-organizer.html",
     "license": {
         "identifier": "Proprietary",
         "url": "https://github.com/sc-software-tools/sc-utility-suite-dist/blob/main/LICENSE"
     },
-    "url": "https://github.com/sc-software-tools/sc-utility-suite-dist/releases/download/expansion-v1.2.1/PaperTrail_Setup_v1.2.1.exe",
-    "hash": "ac81dc118f17b4c4f81521fb286efc6696f606837767f037f9b15c14c21e2792",
+    "url": "https://github.com/sc-software-tools/sc-utility-suite-dist/releases/download/expansion-v1.2.2/PaperTrail_Setup_v1.2.2.exe",
+    "hash": "27f0b2174ff81986d25543f5c9943c0ceaf2e038cda7bcf3a876c20ab4fdcacd",
     "innosetup": true,
     "shortcuts": [
         [

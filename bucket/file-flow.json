@@ -1,13 +1,13 @@
 {
-    "version": "1.2.1",
+    "version": "1.2.2",
     "description": "SC FileFlow: Tidy messy folders with your own rules. Preview every move first, undo any batch, and recover safely after a crash. One-time purchase.",
     "homepage": "https://sc-software-tools.github.io/sc-utility-suite-dist/file-organizer.html",
     "license": {
         "identifier": "Proprietary",
         "url": "https://github.com/sc-software-tools/sc-utility-suite-dist/blob/main/LICENSE"
     },
-    "url": "https://github.com/sc-software-tools/sc-utility-suite-dist/releases/download/expansion-v1.2.1/FileFlow_Setup_v1.2.1.exe",
-    "hash": "399d9a74153afc2c1fd9e000049cc05a1ae63686a11bd9f129e83693ce34d821",
+    "url": "https://github.com/sc-software-tools/sc-utility-suite-dist/releases/download/expansion-v1.2.2/FileFlow_Setup_v1.2.2.exe",
+    "hash": "c016cbe692ec892ff12ad292d3dafebebf46185dd9b2efb896298a8bdf17d421",
     "innosetup": true,
     "shortcuts": [
         [
