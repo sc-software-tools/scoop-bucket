@@ -1,13 +1,13 @@
 {
-    "version": "1.2.2",
+    "version": "1.2.4",
     "description": "Dup Scrub: Find duplicate files and photos and move the copies to the Recycle Bin. Free; optional one-time PRO upgrade.",
     "homepage": "https://sc-software-tools.github.io/sc-utility-suite-dist/duplicate-finder.html",
     "license": {
         "identifier": "Freeware",
         "url": "https://sc-software-tools.github.io/sc-utility-suite-dist/"
     },
-    "url": "https://github.com/sc-software-tools/sc-utility-suite-dist/releases/download/suite-v1.2.2/DupScrub_v1.2.2_Portable.zip",
-    "hash": "c30e09b49a766ce9f4d89df44ae2fa6c03902d883c99731672f4e8eec84c0ea7",
+    "url": "https://github.com/sc-software-tools/sc-utility-suite-dist/releases/download/suite-v1.2.4/DupScrub_v1.2.4_Portable.zip",
+    "hash": "150aaac306e157d1c5eef1d34952622ed036ec46a9ea4becaa68d734a00023c6",
     "extract_dir": "DupScrub",
     "shortcuts": [
         [

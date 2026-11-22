@@ -1,13 +1,13 @@
 {
-    "version": "1.2.2",
+    "version": "1.2.4",
     "description": "USB Flasher: Write bootable ISO and IMG images to USB drives and verify them. Free; optional one-time PRO upgrade.",
     "homepage": "https://sc-software-tools.github.io/sc-utility-suite-dist/usb-imager.html",
     "license": {
         "identifier": "Freeware",
         "url": "https://sc-software-tools.github.io/sc-utility-suite-dist/"
     },
-    "url": "https://github.com/sc-software-tools/sc-utility-suite-dist/releases/download/suite-v1.2.2/UsbFlasher_v1.2.2_Portable.zip",
-    "hash": "c49a8bab20b61057e0cd1f38ee881e699719a38ac997a8b91810932277291dd1",
+    "url": "https://github.com/sc-software-tools/sc-utility-suite-dist/releases/download/suite-v1.2.4/UsbFlasher_v1.2.4_Portable.zip",
+    "hash": "4b828a24948e95023dd9ac92a70cfff1a16d93322cb24b83e01cbcba3b305fa3",
     "extract_dir": "UsbFlasher",
     "shortcuts": [
         [
