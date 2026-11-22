@@ -1,13 +1,13 @@
 {
-    "version": "1.2.5",
+    "version": "1.2.6",
     "description": "SC Utility Suite: All seven SC tools in one app: HEIC, PDF, archives, video, duplicates, screen recording, USB. Free; optional one-time PRO upgrade.",
     "homepage": "https://sc-software-tools.github.io/sc-utility-suite-dist/",
     "license": {
         "identifier": "Freeware",
         "url": "https://sc-software-tools.github.io/sc-utility-suite-dist/"
     },
-    "url": "https://github.com/sc-software-tools/sc-utility-suite-dist/releases/download/suite-v1.2.5/SC_Utility_Suite_v1.2.5_Portable.zip",
-    "hash": "d9ad4fd2672927c9a0cfb184c5cbf78e2b2d10bc6020daa1a1e14f6e496b326d",
+    "url": "https://github.com/sc-software-tools/sc-utility-suite-dist/releases/download/suite-v1.2.6/SC_Utility_Suite_v1.2.6_Portable.zip",
+    "hash": "1d76f3602df50692eaa9b78016762c1749bc24f98aec0a26cf2fde899bf33610",
     "extract_dir": "SC Utility Suite",
     "shortcuts": [
         [
