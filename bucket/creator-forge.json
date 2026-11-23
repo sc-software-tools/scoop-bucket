@@ -1,14 +1,14 @@
 {
-    "version": "1.2.4",
+    "version": "1.2.5",
     "description": "SC Creator Forge: Turn videos, photos and audio into thumbnails, social artwork, MP4s and clean audio in one batch, on your PC. One-time purchase.",
     "homepage": "https://sc-software-tools.github.io/sc-utility-suite-dist/creator-forge.html",
     "license": {
         "identifier": "Proprietary",
         "url": "https://github.com/sc-software-tools/sc-utility-suite-dist/blob/main/LICENSE"
     },
-    "url": "https://github.com/sc-software-tools/sc-utility-suite-dist/releases/download/expansion-v1.2.4/CreatorForge_Setup_v1.2.4.exe",
-    "hash": "d5ec1dc71664c5b67890e3775ec89375f9b2f51aea819d1d99c7bce2679462b3",
-    "innosetup": true,
+    "url": "https://github.com/sc-software-tools/sc-utility-suite-dist/releases/download/expansion-v1.2.5/CreatorForge_v1.2.5_Portable.zip",
+    "hash": "9301853041b3f15dff6b2aefa11a3c78646a90461674438aac62da2da0ccf0fb",
+    "extract_dir": "CreatorForge",
     "shortcuts": [
         [
             "CreatorForge.exe",
@@ -20,7 +20,7 @@
         "regex": "expansion-v([\\d.]+)"
     },
     "autoupdate": {
-        "url": "https://github.com/sc-software-tools/sc-utility-suite-dist/releases/download/expansion-v$version/CreatorForge_Setup_v$version.exe",
+        "url": "https://github.com/sc-software-tools/sc-utility-suite-dist/releases/download/expansion-v$version/CreatorForge_v$version_Portable.zip",
         "hash": {
             "url": "https://github.com/sc-software-tools/sc-utility-suite-dist/releases/download/expansion-v$version/checksums_expansion_windows_v$version.sha256",
             "regex": "([a-fA-F0-9]{64})\\s+\\*?$basename"

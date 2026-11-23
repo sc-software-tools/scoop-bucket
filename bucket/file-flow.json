@@ -1,14 +1,14 @@
 {
-    "version": "1.2.4",
+    "version": "1.2.5",
     "description": "SC FileFlow: Tidy messy folders with your own rules. Preview every move first, undo any batch, and recover safely after a crash. One-time purchase.",
     "homepage": "https://sc-software-tools.github.io/sc-utility-suite-dist/file-organizer.html",
     "license": {
         "identifier": "Proprietary",
         "url": "https://github.com/sc-software-tools/sc-utility-suite-dist/blob/main/LICENSE"
     },
-    "url": "https://github.com/sc-software-tools/sc-utility-suite-dist/releases/download/expansion-v1.2.4/FileFlow_Setup_v1.2.4.exe",
-    "hash": "4057b02a89af40527fdd6a8715114ff56dac0902a49961706425436f8ad37e9a",
-    "innosetup": true,
+    "url": "https://github.com/sc-software-tools/sc-utility-suite-dist/releases/download/expansion-v1.2.5/FileFlow_v1.2.5_Portable.zip",
+    "hash": "5857e99bb86f6062ebae765c95424f6dbe5f4c9b4824adf187df10c0b3edf80b",
+    "extract_dir": "FileFlow",
     "shortcuts": [
         [
             "FileFlow.exe",
@@ -20,7 +20,7 @@
         "regex": "expansion-v([\\d.]+)"
     },
     "autoupdate": {
-        "url": "https://github.com/sc-software-tools/sc-utility-suite-dist/releases/download/expansion-v$version/FileFlow_Setup_v$version.exe",
+        "url": "https://github.com/sc-software-tools/sc-utility-suite-dist/releases/download/expansion-v$version/FileFlow_v$version_Portable.zip",
         "hash": {
             "url": "https://github.com/sc-software-tools/sc-utility-suite-dist/releases/download/expansion-v$version/checksums_expansion_windows_v$version.sha256",
             "regex": "([a-fA-F0-9]{64})\\s+\\*?$basename"

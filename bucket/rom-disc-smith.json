@@ -1,14 +1,14 @@
 {
-    "version": "1.2.4",
+    "version": "1.2.5",
     "description": "SC ROM & Disc Smith: Shrink your emulator game disc images to compact CHD files, check every byte, and convert them back when you need to. One-time purchase.",
     "homepage": "https://sc-software-tools.github.io/sc-utility-suite-dist/chd-converter.html",
     "license": {
         "identifier": "Proprietary",
         "url": "https://github.com/sc-software-tools/sc-utility-suite-dist/blob/main/LICENSE"
     },
-    "url": "https://github.com/sc-software-tools/sc-utility-suite-dist/releases/download/expansion-v1.2.4/RomDiscSmith_Setup_v1.2.4.exe",
-    "hash": "330ae7d4e169cf6343c3f53c78bc8373bbfa516e10f20b28dd767cd995d6e7c3",
-    "innosetup": true,
+    "url": "https://github.com/sc-software-tools/sc-utility-suite-dist/releases/download/expansion-v1.2.5/RomDiscSmith_v1.2.5_Portable.zip",
+    "hash": "25cb7664ecdac6bbd8750dcc5fb1f6098f2d85caee798a5e08c8892a88cf8d71",
+    "extract_dir": "RomDiscSmith",
     "shortcuts": [
         [
             "RomDiscSmith.exe",
@@ -20,7 +20,7 @@
         "regex": "expansion-v([\\d.]+)"
     },
     "autoupdate": {
-        "url": "https://github.com/sc-software-tools/sc-utility-suite-dist/releases/download/expansion-v$version/RomDiscSmith_Setup_v$version.exe",
+        "url": "https://github.com/sc-software-tools/sc-utility-suite-dist/releases/download/expansion-v$version/RomDiscSmith_v$version_Portable.zip",
         "hash": {
             "url": "https://github.com/sc-software-tools/sc-utility-suite-dist/releases/download/expansion-v$version/checksums_expansion_windows_v$version.sha256",
             "regex": "([a-fA-F0-9]{64})\\s+\\*?$basename"
